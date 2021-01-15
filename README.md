@@ -1,2 +1,2 @@
-# Ola Mundo
- Primeiro Repositório
+# Olá, Mundo!
+ Primeiro Repositório, sou estudante de programação, linguagem Python, atualmente focado em Python para Data Science.
